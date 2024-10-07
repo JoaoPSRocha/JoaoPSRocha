@@ -14,12 +14,12 @@
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)  
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-### Linguagens utilizadas
+### 💻 Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPSRocha&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-### Projetos 
+### 📈 Projetos 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPSRocha&repo=Script_conversor_temperaturas.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
