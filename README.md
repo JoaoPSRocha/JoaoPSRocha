@@ -10,4 +10,4 @@ Tenho 2 anos de experiência no desenvolvimento de projetos com o uso de diversa
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPSRocha6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPSRocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
