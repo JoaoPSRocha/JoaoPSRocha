@@ -4,10 +4,6 @@
 
 2 anos de experiência em análise de dados, incluindo a execução de processos de ETL (extração, transformação e carregamento) a partir de diversas fontes. Habilidade em realizar análise exploratória e criar relatórios e dashboards com Power BI. Implementação de projetos para a análise automatizada de dados no Excel. Desenvolvimento de dashboards e análise de indicadores estratégicos para apoiar a diretoria na formulação de ações assertivas. Automação de relatórios mensais e semanais, otimizando o fluxo de trabalho e garantindo precisão nas entregas. Competência em transformar dados brutos em insights acionáveis, gerenciar grandes volumes de informações e identificar padrões e tendências para decisões estratégicas.
 
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPSRocha&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
-
 ### :bulb: Habilidades
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PySpark](https://img.shields.io/badge/PySpark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
@@ -18,7 +14,9 @@
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)  
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
+### Linguagens utilizadas
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPSRocha&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 ### Projetos
