@@ -13,7 +13,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPSRocha&repo=Script_conversor_temperaturas.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPSRocha&show_icons=true&theme=dracula)
 
 
