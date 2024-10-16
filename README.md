@@ -4,7 +4,7 @@
 
 ###### About João Pedro
 
-Experienced data analyst with 2 years of expertise in SQL and Python, specializing in ETL processes from diverse data sources. Proficient in exploratory data analysis and adept at creating insightful reports and dashboards using Power BI. Developed automated data analysis solutions in Excel, SQL, and Python to provide strategic insights for management. Streamlined weekly and monthly reporting, enhancing workflow efficiency and ensuring data accuracy. Skilled in transforming raw data into actionable insights and identifying trends for informed decision-making.
+Experienced data analyst with 2 years of expertise in SQL, Python and ETL processes from diverse data sources. Proficient in exploratory data analysis and adept at creating insightful reports and dashboards using Power BI. Developed automated data analysis solutions in Excel, SQL, and Python to provide strategic insights for management. Streamlined weekly and monthly reporting, enhancing workflow efficiency and ensuring data accuracy. Skilled in transforming raw data into actionable insights and identifying trends for informed decision-making.
 
 ### :bulb: Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
