@@ -25,7 +25,7 @@ Experienced data analyst with 2 years of expertise in SQL, Python and ETL proces
 
 ### 📈 Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPSRocha&repo=Script_conversor_temperaturas.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPSRocha&repo=teste_pratica_sql.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📧 Contacts
