@@ -1,10 +1,10 @@
-### Welcome!! 👋🌌 
+### Bem vindo!! 👋🌌 
 
-###### About João Pedro
+###### Sobre João Pedro
 
-Experienced data analyst with 2 years of expertise in SQL, Python and ETL processes from diverse data sources. Proficient in exploratory data analysis and adept at creating insightful reports and dashboards using Power BI. Developed automated data analysis solutions in Excel, SQL, and Python to provide strategic insights for management. Streamlined weekly and monthly reporting, enhancing workflow efficiency and ensuring data accuracy. Skilled in transforming raw data into actionable insights and identifying trends for informed decision-making.
+Analista de dados com 2 anos de experiência em SQL, Python e processos de ETL. Proficiente em análise exploratória de dados e habilidoso na criação de relatórios e dashboards informativos usando Power BI. Desenvolvi soluções automatizadas de análise de dados em Excel, SQL e Python para fornecer insights estratégicos para a gestão. Otimizei relatórios semanais e mensais, melhorando a eficiência do fluxo de trabalho e garantindo a precisão dos dados. Habilidade em transformar dados brutos em insights acionáveis e identificar tendências para a tomada de decisões informadas. Estou atualmente aprendendo sobre Big Data e Machine Learning, já realizei alguns projetos com o modelo de analise de preditiva.
 
-### :bulb: Skills
+### :bulb: Habilidades
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PySpark](https://img.shields.io/badge/PySpark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -17,7 +17,7 @@ Experienced data analyst with 2 years of expertise in SQL, Python and ETL proces
 ![looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
 
 
-### 📧 Contacts
+### 📧 Contatos
 <div> 
   <a href = "mailto:joaopedro13122221@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-rocha-dados" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
