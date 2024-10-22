@@ -16,17 +16,6 @@ Experienced data analyst with 2 years of expertise in SQL, Python and ETL proces
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
 
-### 💻 Languages Used
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPSRocha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-### 📈 Projects 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPSRocha&repo=classificao_musicas_spotify.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 📧 Contacts
 <div> 
