@@ -2,7 +2,19 @@
 
 ###### Sobre João Pedro
 
-Analista de dados com 2 anos de experiência em SQL, Python e processos de ETL. Proficiente em análise exploratória de dados e habilidoso na criação de relatórios e dashboards informativos usando Power BI. Desenvolvi soluções automatizadas de análise de dados em Excel, SQL e Python para fornecer insights estratégicos para a gestão. Otimizei relatórios semanais e mensais, melhorando a eficiência do fluxo de trabalho e garantindo a precisão dos dados. Habilidade em transformar dados brutos em insights acionáveis e identificar tendências para a tomada de decisões informadas. Estou atualmente aprendendo sobre Big Data e Machine Learning, já realizei alguns projetos com o modelo de analise de preditiva.
+Pós-graduando em Data Analytics pela FIAP, bacharel em Ciência da Informação pela Universidade Federal de Minas Gerais (UFMG) e formação profissional em Análise de Dados pela EBAC – British School of Creative Arts and Technology.
+
+Possuo experiência prática em análise de dados e business intelligence, com foco no desenvolvimento de soluções estratégicas para otimização de processos e suporte à tomada de decisão. Tenho forte base técnica em Power BI, SQL e Python (Pandas e PySpark), além de experiência em processos ETL e Excel avançado.
+
+Atuo com plataformas em nuvem como AWS (S3, Lambda, Athena) e GCP (BigQuery, Cloud Functions), e também possuo experiência com Shell Script, arquiteturas de Data Lake, Data Warehouse e orquestração de pipelines com Airflow no Databricks.
+
+Também atuo no desenvolvimento de agentes de IA, aplicando princípios de engenharia de prompt e design conversacional para construir agentes inteligentes integrados ao ambiente corporativo. Desenvolvi um agente no Toqan estruturando prompts avançados, definindo regras de contexto e comportamento, e estabelecendo integrações diretas com o Databricks para permitir consultas seguras e automatizadas a dados armazenados em tabelas do Data Lake. Além disso, realizei integrações via API com ferramentas externas como Slack e Google Drive, configurando fluxos de automação, autenticação, tratamento de contexto e boas práticas de governança de dados para garantir confiabilidade e desempenho na operação do agente.
+
+Desenvolvi dashboards analíticos e relatórios automatizados que reduziram o tempo de análise e aumentaram a eficiência operacional. Meu trabalho inclui a criação de pipelines ETL escaláveis e a otimização de consultas SQL para melhorar desempenho e garantir confiabilidade dos dados.
+
+Sou proficiente na análise de KPIs estratégicos, identificação de padrões e geração de insights acionáveis para diversas áreas de negócio. Tenho familiaridade com metodologias ágeis e facilidade em atuar de forma colaborativa entre times técnicos e áreas de negócio.
+
+Perfil analítico, proativo e orientado a soluções, com forte compromisso em gerar valor ao negócio por meio de decisões guiadas por dados.
 
 ### :bulb: Habilidades
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
